@@ -1,0 +1,141 @@
+# Privacy Policy for Stick Jump: 100 Floors
+
+**Effective Date:** April 25, 2026
+
+**Developer:** [Jackie]
+**Contact:** [jackie9527111@gmail.com]
+
+---
+
+## 1. Introduction
+
+Welcome to **Stick Jump: 100 Floors** ("we", "our", or "us"). This Privacy Policy explains how we collect, use, and protect your information when you use our mobile game application (the "App").
+
+By downloading and using the App, you agree to the collection and use of information in accordance with this policy.
+
+---
+
+## 2. Information We Collect
+
+### 2.1 Locally Stored Game Data
+The App stores the following information **locally on your device** using Android/iOS native storage (SharedPreferences / NSUserDefaults):
+
+- Game progress and high scores
+- Player nickname (optional, user-provided)
+- Language preference
+- Game settings (e.g., sound mute state, tutorial completion)
+- Total play count and jump statistics
+
+This data **never leaves your device** and is used solely to provide gameplay functionality (saving progress, displaying personal best scores).
+
+### 2.2 Device Information for Advertising
+We use **Google Mobile Ads (AdMob)** to display rewarded video advertisements. AdMob may automatically collect:
+
+- Device identifiers (such as Advertising ID)
+- Device type and operating system version
+- IP address
+- General location information (at country/region level)
+- App usage data related to ad interactions
+
+This data is collected and processed by **Google** in accordance with their privacy policy. We do not directly access or store your Advertising ID.
+
+### 2.3 Local Network Data (Multiplayer Mode)
+The App includes a **local area network (LAN) multiplayer mode**. When you use this feature:
+
+- A randomly generated local device ID is broadcast within your Wi-Fi network
+- Your chosen player nickname is shared with other players on the same local network
+- Your local IP address is used to establish peer-to-peer connections
+
+This data is **only transmitted within your local Wi-Fi network** and is not sent to our servers or any third-party services.
+
+### 2.4 Storage Access
+The App requests permission to access your device's photo gallery **only when you choose to save an achievement poster**. This is used solely to save the generated image to your album. We do not access, view, or upload any of your existing photos.
+
+---
+
+## 3. How We Use Information
+
+We use the collected information for the following purposes:
+
+- **To provide gameplay functionality:** Saving progress, tracking high scores, and personalizing your experience
+- **To display advertisements:** Serving rewarded video ads that you voluntarily choose to watch for in-game rewards
+- **To enable multiplayer features:** Allowing LAN discovery and gameplay with nearby devices
+- **To improve the App:** Analyzing aggregated, anonymized data to fix bugs and improve game balance
+
+---
+
+## 4. Third-Party Services
+
+The App uses the following third-party services:
+
+### Google Mobile Ads (AdMob)
+- **Provider:** Google LLC
+- **Purpose:** Displaying rewarded video advertisements
+- **Data Collected:** Device identifiers, IP address, location data, ad interaction data
+- **Privacy Policy:** https://policies.google.com/privacy
+- **Opt-out:** You can reset your Advertising ID or opt out of personalized ads through your device settings (Settings > Google > Ads)
+
+### Google Fonts
+- **Provider:** Google LLC
+- **Purpose:** Loading the VT323 pixel font used in the game's user interface
+- **Data Collected:** May include your IP address when fonts are loaded
+- **Privacy Policy:** https://policies.google.com/privacy
+
+---
+
+## 5. Children's Privacy
+
+**This App is suitable for general audiences, including children.**
+
+The game contains only cartoon-style pixel art, mild fantasy monster themes, and no objectionable content (no blood, graphic violence, profanity, or adult themes).
+
+However, **the App is not specifically designed for children under 13** as a primary audience. If you are a parent or guardian and believe your child has provided personal information without your consent, please contact us and we will assist in removing such data from local storage.
+
+**Advertising Note:** While the game itself is family-friendly, the advertisements displayed through AdMob are served by Google's ad network. We do not control the specific content of every ad. Parents should be aware that children may see advertisements for products or services targeted to general audiences.
+
+---
+
+## 6. Data Security
+
+We take reasonable measures to protect your information:
+
+- All game data is stored locally on your device
+- No personal data is transmitted to our servers
+- LAN multiplayer data is encrypted only by your Wi-Fi network's security (WPA2/WPA3)
+
+However, no method of electronic storage or transmission is 100% secure. While we strive to use commercially acceptable means to protect your data, we cannot guarantee absolute security.
+
+---
+
+## 7. Your Rights and Choices
+
+### Delete Your Data
+Since all personal game data is stored locally on your device, you can delete it at any time by:
+- **Android:** Settings > Apps > Stick Jump: 100 Floors > Storage > Clear Data
+- **iOS:** Settings > General > iPhone Storage > Stick Jump: 100 Floors > Delete App
+
+### Opt Out of Personalized Ads
+You can opt out of personalized advertising through your device settings:
+- **Android:** Settings > Google > Ads > Opt out of Ads Personalization
+- **iOS:** Settings > Privacy & Security > Tracking > Limit Ad Tracking
+
+### Disable Multiplayer
+You can avoid any LAN data sharing by simply not using the multiplayer/battle mode. The single-player mode does not transmit any network data.
+
+---
+
+## 8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted within the App and/or on our website. We encourage you to review this policy periodically. Continued use of the App after changes constitutes acceptance of the updated policy.
+
+---
+
+## 9. Contact Us
+
+If you have any questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
+
+**Email:** [your-email@example.com]
+
+---
+
+*This Privacy Policy was generated for Google Play Store compliance and covers all data processing activities within the Stick Jump: 100 Floors mobile application.*
