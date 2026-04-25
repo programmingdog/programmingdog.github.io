@@ -1,1 +1,16 @@
+title: "我的博客"
+description: "分享技术与生活"
+url: "https://用户名.github.io"
+baseurl: ""  # 如果是项目页面，填写 "/仓库名"
+
+# 主题选择（二选一）
 theme: minima
+# remote_theme: 用户名/仓库名
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+lang: zh-CN
+timezone: Asia/Shanghai
