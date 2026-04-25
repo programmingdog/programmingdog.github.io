@@ -1,7 +1,6 @@
-title: "我的博客"
-description: "分享技术与生活"
-url: "https://用户名.github.io"
-baseurl: ""  # 如果是项目页面，填写 "/仓库名"
+title: "Programming Dog"
+description: "Love Technology and Life"
+url: "https://programmingdog.github.io"
 
 # 主题选择（二选一）
 theme: minima
@@ -12,5 +11,5 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-lang: zh-CN
+lang: en-US
 timezone: Asia/Shanghai
